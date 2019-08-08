@@ -1,0 +1,14 @@
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\bin\Debug\netcoreapp2.1\WebApiDapper.deps.json
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\bin\Debug\netcoreapp2.1\WebApiDapper.runtimeconfig.json
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\bin\Debug\netcoreapp2.1\WebApiDapper.runtimeconfig.dev.json
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\bin\Debug\netcoreapp2.1\WebApiDapper.dll
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.csprojAssemblyReference.cache
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.RazorAssemblyInfo.cache
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.RazorAssemblyInfo.cs
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.AssemblyInfoInputs.cache
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.AssemblyInfo.cs
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.RazorTargetAssemblyInfo.cache
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\bin\Debug\netcoreapp2.1\WebApiDapper.pdb
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.dll
+C:\Users\Pankaj Mahanta\source\repos\WebApiDapper\WebApiDapper\obj\Debug\netcoreapp2.1\WebApiDapper.pdb
